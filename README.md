@@ -1,2 +1,2 @@
-# py-gha
-py-gha
+# Learning Python for DevOps prospective
+DevOps Python
